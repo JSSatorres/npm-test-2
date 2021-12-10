@@ -1,0 +1,10 @@
+:root{
+    --color-principal: rgb(81, 255, 0);
+    --color-secundario: rgb(255, 255, 255); 
+    --color-terciario: rgb(233, 189, 123);
+    --color-texttitulo: white;
+  
+}
+body{
+    width: 100%;
+}
